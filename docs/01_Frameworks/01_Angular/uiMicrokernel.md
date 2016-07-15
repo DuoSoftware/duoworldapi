@@ -1,7 +1,5 @@
-# uiMicrokernal
-
 The uiMicrokernal is an Angular library that enables developers to use DuoWorld specific features. After adding the uimicrokernel.js to the index.html inject the module 'uiMicrokernel' to your application. This library includes features to authenticate a session, perform CURD operations with the backend, call a smoothflow process, integrate with Cloud Event Bus (CEB - for chat applications, notifications, real-time messaging with WebRTC), and includes services to handle the execution of applications in the DuoWorld Shell.
-
+[TOC]
 ### Authentication
 
 To obtain user and tenant details in your angular application inject $auth in your controller which is derived from the uiMicrokernal.js
