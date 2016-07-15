@@ -121,5 +121,5 @@ function sendNotification(){
 }
 ```
 
-Congratulations if you made it this far, You can checkout the full source code from here 
+Congratulations if you made it this far, You can checkout the full source code from 
 [Github.](https://github.com/DuoSoftware/DW-Common-UI-Seed-Projets/tree/master/Realtime%20Data-entry)
