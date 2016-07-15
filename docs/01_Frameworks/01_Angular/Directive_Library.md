@@ -19,6 +19,8 @@ How to use this library in your application.
 ```
 * Add the 'directivelibrary' module to your application.
 
+[TOC]
+
 ### Background banner
  This is a simple directive where the background banner can be used with a custom color and given a height. This is purely for aesthetics and conforms with the material design guidelines. 
 ```html
