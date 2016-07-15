@@ -40,9 +40,14 @@ and finally add your controllers
 
 * Writing the application logic in the main.js
 
+Add the modules(libraries) into your angular application.
+```js
+var app = angular.module('mainApp', ['ngMaterial', 'ngAnimate', 'ngMessages', 'ui.router', 'directivelibrary' ,'uiMicrokernel'])
+```
+
 When the ui-view directive is detected by the browser it will check for the configuration of the ui-router. The config for this app is -
 ```js
-.config(function($stateProvider, $urlRouterProvider) {
+app.config(function($stateProvider, $urlRouterProvider) {
 	$urlRouterProvider.otherwise('/view');
 	$stateProvider
 	// HOME STATES AND NESTED VIEWS ========================================
