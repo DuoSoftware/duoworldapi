@@ -35,7 +35,7 @@ This is a sample angular application made to show the power and simplicity of Du
 
 and finally add your controllers
 ```html
-<script src="js/controllers/js.js"></script>
+<script src="js/controllers/main.js"></script>
 ```
 
 * Writing the application logic in the main.js
