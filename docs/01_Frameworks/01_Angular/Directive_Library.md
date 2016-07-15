@@ -1,4 +1,3 @@
-# Directive Library Guide
 
 Angular Material still lacks some UI components. This project aims to bring those missing components. The directive library is a JavaScript file which contains custom directives that can be used easily by any developer using the DuoWorld Developer Portal. 
 
@@ -6,8 +5,9 @@ Note - The Dependancies for this library include the uimicrokernel.js (form the 
  
 (last build: 24-06-2016)
 
+[TOC]
 
-How to use this library in your application.
+### Initialize HTML Document
 
 * Locate this script in your HTML document.
 ```html
